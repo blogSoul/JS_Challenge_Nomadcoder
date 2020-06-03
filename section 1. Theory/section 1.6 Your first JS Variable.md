@@ -1,7 +1,7 @@
 ## section 1.6 Your first JS Variable
 
 javascript는 정말 좋은 문법을 가지고 있지 않습니다.
-하나의 line을 Expression이라 그러고 마무리하기 위해서는 ;를 붙입니다. (instructions는 제외)
+하나의 line을 Expression이라 그러고 마무리하기 위해서는 ;를 붙입니다. (instructions도 포함합니다.)
 
 변수는
 1. Create

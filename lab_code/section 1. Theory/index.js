@@ -40,3 +40,4 @@ console.log(WeeksID.gender);
 WeeksID.gender = "Soul";
 console.log(WeeksID.gender);
 console.log(WeeksID);
+console.log(WeeksID.nams[1].name);
