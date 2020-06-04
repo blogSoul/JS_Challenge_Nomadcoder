@@ -26,3 +26,26 @@ const calculator = {
 
 const plus = calculator.plus(5,5);
 console.log(plus);
+
+if(10 === '10'){
+    console.log("Hi");
+} else if("10" === "10"){
+    console.log("lalala");
+}
+else {
+    console.log("Oh");
+}
+
+true && true === true;
+false || true === true;
+false || false === false;
+
+const age = prompt("How old are you");
+
+if(age >= 18 && age <= 21){
+    console.log("yan can");
+} else if(age > 21){
+    console.log("go ahead");
+} else {
+    console.log("you cant")
+}
