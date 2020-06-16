@@ -1,4 +1,6 @@
-# JS_Challenge_Nomadcoder
+# 😎JS_Challenge_Nomadcoder😎
 
 
 노마드 코더에서 개최한 2주 챌린지에 관한 모든 내용을 담을 예정입니다.
+
+* 챌린지 종료 이후 목차 및 내용을 정리하겠습니다!
